@@ -1,4 +1,4 @@
-Name: Gubbala Bhargavi
+Name: Gubbala Bhargavi| Future Software Engineer
 Goal: Successfully complete the Pre-Joining Program
 Background: Final year B.Tech CS student at IIT Jodhpur
 Skills: Java, Python, C++, Distributed Systems
