@@ -1,3 +1,4 @@
 Name: Gubbala Bhargavi
 Goal: Successfully complete the Pre-Joining Program
 Background: Final year B.Tech CS student at IIT Jodhpur
+Skills: Java, Python, C++, Distributed Systems
