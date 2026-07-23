@@ -2,3 +2,4 @@ Name: Gubbala Bhargavi — Aspiring Software Engineer
 Goal: Successfully complete the Pre-Joining Program
 Background: Final year B.Tech CS student at IIT Jodhpur
 Skills: Java, Python, C++, Distributed Systems
+Note: This branch demonstrates Git merge conflict resolution.
